@@ -8,4 +8,6 @@ At the end index.html will be availble that will write the latest jquery version
 
 
 npm install
+
+
 npm start
